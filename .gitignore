@@ -1,0 +1,6 @@
+android/.gradle/
+android/.idea/
+android/local.properties
+android/**/build/
+ios/**/xcuserdata/
+ios/**/DerivedData/

@@ -1,0 +1,15 @@
+name: AssetApp
+options:
+  deploymentTarget:
+    iOS: "15.0"
+targets:
+  AssetApp:
+    type: application
+    platform: iOS
+    sources:
+      - AssetApp
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.assetapp.mobile
+        SWIFT_VERSION: 5.0
+        INFOPLIST_FILE: AssetApp/Info.plist

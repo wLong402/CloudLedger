@@ -1,6 +1,8 @@
 android/.gradle/
+android/.kotlin/
 android/.idea/
 android/local.properties
 android/**/build/
+android/captures/
 ios/**/xcuserdata/
 ios/**/DerivedData/
